@@ -27,7 +27,7 @@ import com.example.moviesapp.api.Service;
 import com.example.moviesapp.data.FavoriteDbHelper;
 import com.example.moviesapp.model.Movie;
 import com.example.moviesapp.model.MoviesResponse;
-import com.github.ivbaranov.mfb.BuildConfig;
+import com.example.moviesapp.BuildConfig;
 
 import java.util.ArrayList;
 import java.util.Collections;

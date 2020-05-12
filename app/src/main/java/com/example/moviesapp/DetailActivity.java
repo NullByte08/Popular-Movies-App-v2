@@ -24,7 +24,7 @@ import com.example.moviesapp.model.Movie;
 import com.example.moviesapp.model.Trailer;
 import com.example.moviesapp.model.TrailerResponse;
 import com.bumptech.glide.Glide;
-import com.github.ivbaranov.mfb.BuildConfig;
+import com.example.moviesapp.BuildConfig;
 import com.github.ivbaranov.mfb.MaterialFavoriteButton;
 import com.google.android.material.appbar.AppBarLayout;
 import com.google.android.material.appbar.CollapsingToolbarLayout;
